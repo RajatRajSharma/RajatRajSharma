@@ -1,11 +1,24 @@
 # Hi there! 👋 I'm Rajat Raj Sharma
 
-![Profile Image](https://avatars.githubusercontent.com/u/139456051?s=400&u=d164c1ea4251f6064e88ea1aa19bd475e4e94742&v=4)
+<div style="display: flex; align-items: center;">
+  <img src="https://avatars.githubusercontent.com/u/139456051?s=400&u=d164c1ea4251f6064e88ea1aa19bd475e4e94742&v=4" alt="Profile Image" style="border-radius: 50px; margin-right: 20px;" width="150">
 
-- 👀 I’m interested in Web Development mainly and also App development.
-- 🌱 I’m currently learning Flask to improve my back-end Development skill.
-- 💞️ I’m looking to collaborate on Web Development Projects.
-- 📫 You can reach me through E-mail => sharmarajatraj1@gmail.com
+  - 👀 I’m interested in Web Development mainly and also App development.
+  - 🌱 I’m currently learning Flask to improve my back-end Development skill.
+  - 💞️ I’m looking to collaborate on Web Development Projects.
+  - 📫 You can reach me through E-mail => sharmarajatraj1@gmail.com
+</div>
+
+## Skills
+<!-- Skill Icons with Links in Multiple Rows -->
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" width="64" alt="HTML">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" width="64" alt="CSS">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png" width="64" alt="Python">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png" width="64" alt="JavaScript">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/180px-Node.js_logo.svg.png" width="64" alt="NodeJS">
+  <!-- Add more skills here -->
+</div>
 
 ## Skills
 <!-- Skill Icons with Links -->
