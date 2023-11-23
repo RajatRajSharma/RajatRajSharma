@@ -16,11 +16,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" width="64" alt="CSS">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png" width="90" alt="JavaScript">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png" width="70" alt="Python">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/330px-Snowflake_Logo.svg.png" width="104" alt="Snowflake">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/330px-Snowflake_Logo.svg.png" width="134" alt="Snowflake">
   <img src="https://media.licdn.com/dms/image/D5612AQHUtfE_NZiYBQ/article-cover_image-shrink_600_2000/0/1681155201571?e=2147483647&v=beta&t=gU-iBZwXLMnIw61DhAytfuTrSobeQlmeBSM9ixCuDhs" width="94" alt="Rest API">
 </div>
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/MongoDB_Fores-Green.svg/375px-MongoDB_Fores-Green.svg.png" width="114" alt="MongoDB">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/MongoDB_Fores-Green.svg/375px-MongoDB_Fores-Green.svg.png" width="124" alt="MongoDB">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Status_iucn_EX_icon.svg/480px-Status_iucn_EX_icon.svg.png" width="70" alt="ExpressJS">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/180px-React_Logo_SVG.svg.png" width="84" alt="ReactJS">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/180px-Node.js_logo.svg.png" width="84" alt="NodeJS">
