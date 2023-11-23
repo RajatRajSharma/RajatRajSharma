@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Rajat Raj Sharma
 
 <div style="display: flex; align-items: center;">
-  <img src="https://avatars.githubusercontent.com/u/139456051?s=400&u=d164c1ea4251f6064e88ea1aa19bd475e4e94742&v=4" alt="Profile Image" style="border-radius: 250px; margin-right: 20px;" width="150">
+  <img src="https://avatars.githubusercontent.com/u/139456051?s=400&u=d164c1ea4251f6064e88ea1aa19bd475e4e94742&v=4" alt="Profile Image" style="border-radius: 1250px; margin-right: 20px;" width="150">
 
   - 👀 I’m interested in Web Development mainly and also App development.
   - 🌱 I’m currently learning Flask to improve my back-end Development skill.
