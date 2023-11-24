@@ -4,10 +4,23 @@
   <img src="https://avatars.githubusercontent.com/u/139456051?s=400&u=d164c1ea4251f6064e88ea1aa19bd475e4e94742&v=4" alt="Profile Image" style="border-radius: 1250px; margin-right: 20px;" width="150">
 
   - 👀 I’m interested in Web Development mainly and also App development.
-  - 🌱 I’m currently learning Flask to improve my back-end Development skill.
+  - 🌱 I’m currently learning Django to improve my back-end Development skill.
   - 💞️ I’m looking to collaborate on Web Development Projects.
   - 📫 You can reach me through E-mail => sharmarajatraj1@gmail.com
 </div>
+<div style="display: flex; align-items: center;">
+  <img src="https://avatars.githubusercontent.com/u/139456051?s=400&u=d164c1ea4251f6064e88ea1aa19bd475e4e94742&v=4" alt="Profile Image" style="border-radius: 50%; margin-right: 20px; width: 30%;">
+
+  <div style="width: 70%;">
+    <ul>
+      <li>👀 I’m interested in Web Development mainly and also App development.</li>
+      <li>🌱 I’m currently learning Django to improve my back-end Development skill.</li>
+      <li>💞️ I’m looking to collaborate on Web Development Projects.</li>
+      <li>📫 You can reach me through E-mail => sharmarajatraj1@gmail.com</li>
+    </ul>
+  </div>
+</div>
+
 
 ## Skills
 <!-- Skill Icons with Links -->
