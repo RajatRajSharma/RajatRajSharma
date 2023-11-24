@@ -9,7 +9,7 @@
   - 📫 You can reach me through E-mail => sharmarajatraj1@gmail.com
 </div>
 
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
   <div style="flex: 1;">
     <ul>
       <li>👀 I’m interested in Web Development mainly and also App development.</li>
