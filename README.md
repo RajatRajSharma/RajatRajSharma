@@ -9,7 +9,7 @@
   - 📫 You can reach me through E-mail => sharmarajatraj1@gmail.com
 </div>
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
   <div style="flex: 1;">
     <ul>
       <li>👀 I’m interested in Web Development mainly and also App development.</li>
@@ -23,6 +23,7 @@
     <img src="https://avatars.githubusercontent.com/u/139456051?s=400&u=d164c1ea4251f6064e88ea1aa19bd475e4e94742&v=4" alt="Profile Image" style="border-radius: 50%;" width="100">
   </div>
 </div>
+
 
 ## Skills
 <!-- Skill Icons with Links -->
