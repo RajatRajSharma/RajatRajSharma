@@ -13,7 +13,6 @@
 <!-- Skill Icons with Links -->
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" width="90" alt="HTML" style="margin-left: 50px;">
-             
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" width="64" alt="CSS" style="margin-left: 50px;">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png" width="90" alt="JavaScript" style="margin-left: 50px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png" width="70" alt="Python" style="margin-left: 50px;">
