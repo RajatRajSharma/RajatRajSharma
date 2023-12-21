@@ -26,6 +26,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/180px-Node.js_logo.svg.png" width="104" alt="NodeJS" style="margin-left: 50px;">
   <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" width="64" alt="Flask" style="margin-left: 50px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/180px-Django_logo.svg.png" width="154" alt="Django" style="margin-bottom: 40px; margin-left: 50px;">
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_official_logo_icon_169250.png" width="154" alt="Docker" style="margin-bottom: 40px; margin-left: 50px;">
 </div>
 
 ## Certificates
