@@ -18,7 +18,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png" width="70" alt="Python" style="margin-left: 50px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/330px-Snowflake_Logo.svg.png" width="184" alt="Snowflake" style="margin-bottom: 50px; margin-left: 50px;">
   <img src="https://media.licdn.com/dms/image/D5612AQHUtfE_NZiYBQ/article-cover_image-shrink_600_2000/0/1681155201571?e=2147483647&v=beta&t=gU-iBZwXLMnIw61DhAytfuTrSobeQlmeBSM9ixCuDhs" width="134" alt="Rest API" style="margin-bottom: 30px; margin-left: 50px;">
-  <img src="https://png.pngtree.com/png-clipart/20230916/original/pngtree-google-seo-icon-vector-png-image_12256676.png" width="90" alt="JavaScript" style="margin-left: 50px;">
+  <img src="https://png.pngtree.com/png-clipart/20230916/original/pngtree-google-seo-icon-vector-png-image_12256676.png" width="120" alt="JavaScript" style="margin-left: 50px;">
 </div>
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/MongoDB_Fores-Green.svg/375px-MongoDB_Fores-Green.svg.png" width="154" alt="MongoDB" style="margin-bottom: 50px; margin-left: 50px;">
@@ -27,7 +27,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/180px-Node.js_logo.svg.png" width="104" alt="NodeJS" style="margin-left: 50px;">
   <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" width="64" alt="Flask" style="margin-left: 50px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/180px-Django_logo.svg.png" width="154" alt="Django" style="margin-bottom: 40px; margin-left: 50px;">
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_official_logo_icon_169250.png" width="154" alt="Docker" style="margin-bottom: 40px; margin-left: 50px;">
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_official_logo_icon_169250.png" width="144" alt="Docker" style="margin-bottom: 40px; margin-left: 50px;">
 </div>
 
 ## Certificates
