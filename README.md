@@ -38,3 +38,5 @@
 - [Hands On Essentials - Data Applications by Snowflake](https://www.credly.com/badges/491f8637-0563-4641-85b5-8daccf96aa98/linked_in_profile)
 - [Hands On Essentials - Data Sharing by Snowflake](https://www.credly.com/badges/56eba0cd-02e0-44cd-97db-7fc3616c22ef/linked_in_profile)
 - [Hands On Essentials - Data Warehouse by Snowflake](https://www.credly.com/badges/9820828a-cc3f-4054-8c9d-9e6b0aeb1d5a/linked_in_profile)
+- [Search Engine Optimization (SEO) - Hubspot](https://app.hubspot.com/academy/achievements/j2r57z5p/en/1/rajat-raj-sharma/seo)
+
