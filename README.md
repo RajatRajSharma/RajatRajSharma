@@ -29,7 +29,7 @@
   <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" width="64" alt="Flask" style="margin-left: 50px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/180px-Django_logo.svg.png" width="154" alt="Django" style="margin-bottom: 40px; margin-left: 50px;">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_official_logo_icon_169250.png" width="144" alt="Docker" style="margin-bottom: 40px; margin-left: 50px;">
-  <img src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png" width="120" alt="Java" style="margin-left: 50px;">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" width="120" alt="Java" style="margin-left: 50px;">
 </div>
 
 ## Certificates
