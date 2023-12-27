@@ -27,7 +27,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/180px-React_Logo_SVG.svg.png" width="84" alt="ReactJS" style="margin-left: 50px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/180px-Node.js_logo.svg.png" width="104" alt="NodeJS" style="margin-left: 50px;">
   <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" width="64" alt="Flask" style="margin-left: 50px;">
-  <img src="https://ih1.redbubble.net/image.2488768334.2177/st,small,507x507-pad,600x600,f8f8f8.jpg" width="154" alt="Django" style="margin-bottom: 40px; margin-left: 50px;">
+  <img src="https://image.pngaaa.com/344/1947344-middle.png" width="154" alt="Django" style="margin-bottom: 40px; margin-left: 50px;">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_official_logo_icon_169250.png" width="144" alt="Docker" style="margin-bottom: 40px; margin-left: 50px;">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" width="120" alt="Java" style="margin-left: 50px;">
 </div>
