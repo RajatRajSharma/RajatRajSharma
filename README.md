@@ -31,6 +31,9 @@
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_official_logo_icon_169250.png" width="144" alt="Docker" style="margin-bottom: 40px; margin-left: 50px;">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" width="120" alt="Java" style="margin-left: 50px;">
 </div>
+<div>
+  <img src="https://static.vecteezy.com/system/resources/previews/007/226/817/non_2x/web-data-scraping-color-icon-screen-scraping-web-data-extractor-robotic-process-automation-web-harvesting-automatic-cleaning-of-cloud-storage-isolated-illustration-vector.jpg" width="120" alt="Web scrap" style="margin-left: 50px;">
+</div>
 
 ## Certificates
 - [CS50P (Python)](https://certificates.cs50.io/4b524518-5a18-4873-8e17-bb824aac4a4a.pdf?size=letter)
