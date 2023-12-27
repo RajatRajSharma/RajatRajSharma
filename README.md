@@ -32,7 +32,7 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" width="120" alt="Java" style="margin-left: 50px;">
 </div>
 <div>
-  <img src="https://png.pngtree.com/png-clipart/20230921/original/pngtree-web-data-scraping-color-icon-automation-base-storage-vector-png-image_12477131.png" width="150" alt="Web scrap" style="margin-left: 50px;">
+  <img src="https://png.pngtree.com/png-clipart/20230921/original/pngtree-web-data-scraping-color-icon-automation-base-storage-vector-png-image_12477131.png" width="140" alt="Web scrap" style="margin-left: 50px;">
 </div>
 
 ## Certificates
