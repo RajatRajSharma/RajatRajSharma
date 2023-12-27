@@ -30,9 +30,10 @@
   <img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" width="154" alt="Django" style="margin-bottom: 40px; margin-left: 50px;">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/docker_official_logo_icon_169250.png" width="144" alt="Docker" style="margin-bottom: 40px; margin-left: 50px;">
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png" width="120" alt="Java" style="margin-left: 50px;">
+  <img src="https://png.pngtree.com/png-clipart/20230921/original/pngtree-web-data-scraping-color-icon-automation-base-storage-vector-png-image_12477131.png" width="120" alt="Web scrap" style="margin-left: 50px;">
 </div>
 <div>
-  <img src="https://png.pngtree.com/png-clipart/20230921/original/pngtree-web-data-scraping-color-icon-automation-base-storage-vector-png-image_12477131.png" width="140" alt="Web scrap" style="margin-left: 50px;">
+  
 </div>
 
 ## Certificates
