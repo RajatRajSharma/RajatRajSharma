@@ -19,7 +19,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/330px-Snowflake_Logo.svg.png" width="184" alt="Snowflake" style="margin-bottom: 50px; margin-left: 50px;">
   <img src="https://media.licdn.com/dms/image/D5612AQHUtfE_NZiYBQ/article-cover_image-shrink_600_2000/0/1681155201571?e=2147483647&v=beta&t=gU-iBZwXLMnIw61DhAytfuTrSobeQlmeBSM9ixCuDhs" width="134" alt="Rest API" style="margin-bottom: 30px; margin-left: 50px;">
   <img src="https://png.pngtree.com/png-clipart/20230916/original/pngtree-google-seo-icon-vector-png-image_12256676.png" width="120" alt="SEO" style="margin-left: 50px;">
-  <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="120" alt="MySQL" style="margin-left: 50px;">
+  <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="110" alt="MySQL" style="margin-left: 50px;">
+  <img src="https://www.php.net/images/logos/new-php-logo.svg" width="120" alt="MySQL" style="margin-left: 50px;">
 </div>
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/MongoDB_Fores-Green.svg/375px-MongoDB_Fores-Green.svg.png" width="154" alt="MongoDB" style="margin-bottom: 50px; margin-left: 50px;">
